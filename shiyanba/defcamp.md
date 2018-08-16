@@ -4,6 +4,7 @@
 
 通过查看程序，链表中一共10个元素。元素中存储序号值+109。对于输入s，如果sub_40074D返回值为0，则正确。
 3、查看sub_40074D函数
+
 ![2](https://github.com/kal-matthew/CTF-PRACTICE/blob/master/shiyanba/picture/defcamp_2.png)
 
 第一个for循环5次
